@@ -19,15 +19,15 @@ export default siteConfig({
   // social usernames (optional)
   twitter: 'brycedmarquardt',
   github: 'brycemarquardt',
-  linkedin: 'Bryce Marquardt',
+  linkedin: 'bryce-d-marquardt',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
-  defaultPageIcon: null,
-  defaultPageCover: null,
+  defaultPageIcon: 'https://picsur.bmarquardt.us/i/b81d8f20-dde7-4a27-9ab1-972a2ee62990.png',
+  defaultPageCover: 'https://picsur.bmarquardt.us/i/e91ba61e-6548-430f-b7c7-9fe423ead651.png',
   defaultPageCoverPosition: 0.5,
 
   // whether or not to enable support for LQIP preview images (optional)
